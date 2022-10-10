@@ -19,7 +19,42 @@
 # else:
 #       print("nie")
 
-# zad 4
-limit = 20 
-waga = int(input("ile wazy gruz"))
-if waga<=
+
+# x = int(input())
+# y = int(input())
+
+# if x>y:
+#     print("tak")
+# else:
+#     print ("nie")
+
+# zad 5
+
+# a = int(input())
+# b = int(input())
+# c = int(input())
+
+# if a<c>b:
+#   print ("nie")
+# else:
+#   print ("tak")
+
+# zad 6 
+
+# a = int(input())
+# p = int(input())
+
+# if (a^p-a) % p == 0 :
+#   print("tak")
+# else:
+#   print("nie")
+
+zad 7
+p = int(input())
+k = int(input())
+s = int(input())
+
+if p + 3*s>= k:
+  print("tak")
+else
+  print("nie")
