@@ -49,12 +49,12 @@
 # else:
 #   print("nie")
 
-zad 7
-p = int(input())
-k = int(input())
-s = int(input())
+# zad 7
+# p = int(input())
+# k = int(input())
+# s = int(input())
 
-if p + 3*s>= k:
-  print("tak")
-else
-  print("nie")
+# if p + 3*s>= k:
+#   print("tak")
+# else
+#   print("nie")
