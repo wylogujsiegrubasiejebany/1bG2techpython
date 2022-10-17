@@ -6,7 +6,7 @@
 # if (a+b) % 2 == 0:
 #     print ("tak")
 # else:  
-#   print("nie")
+#     print("nie")
 
 # zad 2
 
