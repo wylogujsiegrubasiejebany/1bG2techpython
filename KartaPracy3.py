@@ -27,7 +27,37 @@
 #  for i in range (10):
 #       print(i*i, end=" ")
 
-zad 3 
+# zad 3 
+
+# n = int(input())
+# for i in range(11, n+1):
+
+# zad 4
+# suma = 0 
+# for i in range (10,100):
+#     suma=suma + i #0+10+11+12+13+....+99
+# print(suma)
+
+# suma liczb trzycyfrowych parzystych 
+
+# zad 5
+
+# n = int(input())
+# suma = n * (n+1)//2
+
+# for i in range(n-1):
+#     k = int(input())
+#     suma = suma - k
+
+# print(suma)
+
+# zad 6
 
 n = int(input())
-for i in range(11, n+1):
+a,b = 0,1
+
+for i in range(n):
+    a , b = b , a + b
+    print(a,end="")
+
+
