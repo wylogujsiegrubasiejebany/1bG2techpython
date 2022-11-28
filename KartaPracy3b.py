@@ -1,22 +1,24 @@
 # zad 1
-# for i in range(1,30,1): print(i,end=" ")
+# for i in range(1,31,1): print(i,end=" ")
 
 # zad 2
-# for i in range(1,20,2): print(i**2)
+# a = 1
+# while True:
+#   print(a ** 2)
+#   a += 2
 
 # zad 3
 # for i in range(1000, 10000): 
 #     if i%379 == 0:
 #         print(i)
 
-
 # zad 4
 # for i in range(100, 1000):
-#     if i % 5 and 6 or 11 == 0:
+#    if i % 5 == 0 or i % 6 == 0 or i % 11 == 0:
 #         print(i)
 
-# #zad 5
-# n = int(input("ile liczb chcesz wpisać? "))
+# zad 5
+# n = int(input())
 # suma=0
 # for  i in range(n):
 #   k = int(input())

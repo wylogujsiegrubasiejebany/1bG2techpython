@@ -1,9 +1,9 @@
 # zad 1
-# a = int (input("podaj liczbe"))
-# if a % 3 == 0:
-#     print("TAK")
-# else: 
-#     print("NIE")
+a = int (input("podaj liczbe"))
+if a % 3 == 0:
+    print("TAK")
+else: 
+    print("NIE")
 
 # zad 2 
 # a = int(input("podaj liczbe: "))

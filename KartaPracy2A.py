@@ -10,16 +10,11 @@
 
 # zad 2
 
-# a = int(input())
-# b = int(input())
-
-# śa = a+b/2
-# śg = (a*b)**(1/2)
-
-# if śa > śg:
-#   print("tak")
+# a,g = int(input()), int(input())
+# if (a + g) / 2 > (a+g)**0.5:
+#  print("tak")
 # else:
-#   print("nie")
+#  print("nie")
 
 # zad 3 
 
@@ -27,18 +22,18 @@
 # l = int(input())
 # m = int(input())
 # if k==l:
-#   print("tak")
+#  print("tak")
 #   print(k, l)
 
-# if l==m:
-#   print("tak")
-#   print(l, m)
+# elif l==m: 
+#  print("tak")
+#  print(l, m)
 
-# if m==k:
-#   print("tak")
-#   print(m, k)
+# elif m==k:
+#  print("tak")
+#  print(m, k)
 # else:
-#   print ("nie")
+#  print ("nie")
 
 # zad 4 
 
@@ -54,7 +49,7 @@
 # b = int(input())
 # c = int(input())
 
-# if a<(b+c) and a>(b-c) and b<(a+c) and b>(a-c) and c<(a+b) and c>(a-b):
+# if a<(b+c) and b<(a+c) and c<(a+b):
 #    print("tak")
 # else:
 #   print("nie")
